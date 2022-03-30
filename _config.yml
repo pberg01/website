@@ -71,6 +71,12 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/pberg01"
+    - label: "LinkedIn"
+      icon: "fa-brands fa-linkedin"
+      url: "https://http://linkedin.com/"
+    - label: "Microsoft"
+      icon: "fab fa-brands fa-microsoft"
+      url: "https://http://microsoft.com/"
 
 footer:
   links:
@@ -90,9 +96,10 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
+      show_date: true
   # _pages
   - scope:
       path: "_pages"
