@@ -72,11 +72,11 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/pberg01"
     - label: "LinkedIn"
-      icon: "fa-brands fa-linkedin"
-      url: "https://http://linkedin.com/"
+      icon: "fab fa-fw fa-brands fa-linkedin"
+      url: "https://linkedin.com/"
     - label: "Microsoft"
-      icon: "fab fa-brands fa-microsoft"
-      url: "https://http://microsoft.com/"
+      icon: "fab fa-fw fa-brands fa-microsoft"
+      url: "https://microsoft.com/"
 
 footer:
   links:
